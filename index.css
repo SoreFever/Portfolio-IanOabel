@@ -1,0 +1,10 @@
+h1 {
+    color: lightblue;
+}
+
+
+nav ul{
+    display: flex;
+    list-style: none;
+    gap: 24px;
+}
