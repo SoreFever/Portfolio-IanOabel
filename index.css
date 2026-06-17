@@ -1,10 +1,21 @@
-h1 {
+.Page {
+    text-align: center;
+}
+.Name {
     color: lightblue;
 }
 
 
-nav ul{
+.MainNav {
+    background-color: orange;
+    align-items: center;
+}
+.NavList {
     display: flex;
     list-style: none;
-    gap: 24px;
+    gap: 200px;
+    justify-content: center;
+}
+.TabText {
+    font-size: 50px;
 }
