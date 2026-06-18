@@ -1,10 +1,14 @@
 .Page {
-    text-align: center;
-}
-.Name {
-    color: lightblue;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
 }
 
+.Page div{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
 
 .MainNav {
     background-color: orange;
